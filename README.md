@@ -1,2 +1,2 @@
-# https://www.mmk.com
+# https://www.mmi.com
 Control zaman
